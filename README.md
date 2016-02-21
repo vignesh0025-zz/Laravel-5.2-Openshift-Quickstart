@@ -22,6 +22,9 @@ running your application on OpenShift.
 ### NGINX Configuration
 - see __.openshift/nginx.conf.erb__ for nginx server configuration
 
+### Local .env file
+Copy paste .env.example to .env and make your changes to it. __.env file will not be included in GIT!!. Also make sure to include the variables to be assigned, incase you work in team. 
+
 ### Local vs. Remote Development ###
 This Laravel QuickStart provides separate `.env` configuration files for both local and 
 remote development, found at `.env` and `.openshift/.env` respectively. When the local 
