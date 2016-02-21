@@ -1,0 +1,8 @@
+{
+    "name": "Laravel 5.2",
+    "website": "http://laravel.com/",
+    "version": "0.2",
+    "initial_git_url": "https://github.com/vignesh0025/Laravel-5.2-Openshift-Quickstart.git",
+    "cartridges": ["mysql-5.5"],
+    "summary": "Quickstart for Laravel 5.2"
+}
